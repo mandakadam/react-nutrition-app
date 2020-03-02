@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-nutrition-app/static/css/main.aed6f483.chunk.css",
+    "main.js": "/react-nutrition-app/static/js/main.8f6ac5d8.chunk.js",
+    "main.js.map": "/react-nutrition-app/static/js/main.8f6ac5d8.chunk.js.map",
+    "runtime-main.js": "/react-nutrition-app/static/js/runtime-main.32d712a8.js",
+    "runtime-main.js.map": "/react-nutrition-app/static/js/runtime-main.32d712a8.js.map",
+    "static/js/2.f641524e.chunk.js": "/react-nutrition-app/static/js/2.f641524e.chunk.js",
+    "static/js/2.f641524e.chunk.js.map": "/react-nutrition-app/static/js/2.f641524e.chunk.js.map",
+    "index.html": "/react-nutrition-app/index.html",
+    "precache-manifest.f48286dc0b8bbd6ea86a0d5ef9a7bf7f.js": "/react-nutrition-app/precache-manifest.f48286dc0b8bbd6ea86a0d5ef9a7bf7f.js",
+    "service-worker.js": "/react-nutrition-app/service-worker.js",
+    "static/css/main.aed6f483.chunk.css.map": "/react-nutrition-app/static/css/main.aed6f483.chunk.css.map",
+    "static/js/2.f641524e.chunk.js.LICENSE.txt": "/react-nutrition-app/static/js/2.f641524e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32d712a8.js",
+    "static/js/2.f641524e.chunk.js",
+    "static/css/main.aed6f483.chunk.css",
+    "static/js/main.8f6ac5d8.chunk.js"
+  ]
+}
